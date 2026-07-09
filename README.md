@@ -1,4 +1,3 @@
-```markdown
 # SedimentAnalysis
 
 ![Скриншот программы](basic/win.png)
