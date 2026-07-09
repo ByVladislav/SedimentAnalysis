@@ -80,8 +80,3 @@ SedimentAnalysis/
 ```bash
 pip install -r requirements.txt
 ```
-
-## Лицензия
-
-Проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](LICENSE).
-```
